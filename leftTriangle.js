@@ -1,3 +1,4 @@
+// Exercise 2: Print the following pattern
 const leftTriangle = () => {
     let n = 5; 
     let string = ''; 
