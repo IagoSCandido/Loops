@@ -10,9 +10,9 @@ numbers = [12, 75, 150, 180, 145, 525, 50]
 */
 
 const arr = [12, 75, 150, 180, 145, 525, 50];
-const arrFunction = () => {
-    let arEle = arr % 5 == 0
-    for (i = 0; i < arr.length; i++) {
+const arrFunction = (n) => {
+    let arEle = n % 5 == 0
+    for (i = 0; i < n.length; i++) {
         if (arEle) {
             console.log(arEle)
         }
