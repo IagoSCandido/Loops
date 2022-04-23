@@ -1,13 +1,13 @@
 // Exercise 2: Print the following pattern
-const leftTriangle = () => {
-    let n = 5; 
+const leftTriangle = (n) => {
+
     let string = ''; 
     for (i=1; i <=n; i++) { 
         for (j=1; j<=i; j++) {
-            string += j;
+            string += j + " ";
         }
         string += '\n';        
     }
     console.log(string)
 }
- leftTriangle()
+ leftTriangle(7)
