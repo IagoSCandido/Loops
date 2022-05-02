@@ -1,3 +1,5 @@
+ref: https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-1-print-first-10-natural-numbers-using-while-loop
+
 Exercise 1: Print First 10 natural numbers using for loop
 Exercise 2: Print the following pattern
 Exercise 3: Calculate the sum of all numbers from 1 to a given number
@@ -17,4 +19,3 @@ Exercise 16: Calculate the cube of all numbers from 1 to a given number
 Exercise 17: Find the sum of the series upto n terms
 Exercise 18: Print the following pattern
 
-ref: https://pynative.com/python-if-else-and-for-loop-exercise-with-solutions/#h-exercise-1-print-first-10-natural-numbers-using-while-loop

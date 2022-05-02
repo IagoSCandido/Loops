@@ -10,4 +10,5 @@ const leftTriangle = (n) => {
     }
     console.log(string)
 }
+
  leftTriangle(7)
